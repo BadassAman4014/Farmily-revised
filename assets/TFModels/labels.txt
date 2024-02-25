@@ -1,0 +1,3 @@
+0 Healthy Tomato Plant
+1 Tomato Leaf Mold
+2 Tomato Early Blight

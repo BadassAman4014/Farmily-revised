@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "756462817760",
+    "firebase_url": "https://farmilycd-default-rtdb.firebaseio.com",
+    "project_id": "farmilycd",
+    "storage_bucket": "farmilycd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756462817760:android:71722dd01b87ed16a1db85",
+        "android_client_info": {
+          "package_name": "com.example.farmilyrev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhRqEF6IaWfjXfSucMZnqbIYSFK5mwf4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756462817760:android:3db6fcde1c260affa1db85",
+        "android_client_info": {
+          "package_name": "com.example.valharika"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhRqEF6IaWfjXfSucMZnqbIYSFK5mwf4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756462817760:android:c5b0a8f50f8fc74fa1db85",
+        "android_client_info": {
+          "package_name": "com.example.welcome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhRqEF6IaWfjXfSucMZnqbIYSFK5mwf4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
