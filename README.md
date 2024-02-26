@@ -26,7 +26,7 @@
 
 ## Important Links
 
-- [Demo](https://youtu.be/z6UyvHQPP0A)
+- [Demo](https://youtu.be/vp_O_RCOe-I)
 
 ## Tech Stack
 
