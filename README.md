@@ -1,6 +1,6 @@
 # Farmily - One-Stop Solution for Agriculture Landscape
 
-![Farmily Logo](assets/Images/logo.jpg)
+![Farmily Logo](assets/images/logo.jpg)
 
 ## Overview
 
@@ -71,9 +71,9 @@ We are working on developing a labor portal so that farmers can easily connect w
 ## UN Sustainable Development Goals and Targets:
 
 <p align="center">
-  <img src="assets/SDG/hunger.png" width="30%" alt="SDG Goal 1">
-  <img src="assets/SDG/work.png" width="30%" alt="SDG Goal 2">
-  <img src="assets/SDG/conpro.png" width="30%" alt="SDG Goal 3">
+  <img src="assets/images/SDG/hunger.png" width="30%" alt="SDG Goal 1">
+  <img src="assets/images/SDG/work.png" width="30%" alt="SDG Goal 2">
+  <img src="assets/images/SDG/conpro.png" width="30%" alt="SDG Goal 3">
 </p>
 
 Goal 2 - Zero Hunger
