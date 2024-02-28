@@ -48,7 +48,7 @@
 * A little knowledge of Dart and Flutter
 
 
-## Steps to run the application
+## 🚀 Steps to Run the Application 🛠️
 
 - Clone the GitHub Repository: 
 
