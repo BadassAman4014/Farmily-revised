@@ -16,7 +16,7 @@
 
 - **User Role Specification:** Tailoring functionalities for each user type (farmer, customer, seller) to ensure a personalized and seamless experience. 🌱
 
-### 🌾 Farming Assistance 🚜🤖
+### Farming Assistance
 
 - **AgroGuide:** Harness the power of ML for crop prediction, recommendations, and IOT crop monitoring. 🌱🤖
   
