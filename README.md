@@ -45,6 +45,7 @@
 ## Steps to run the application
 
 - Clone the GitHub Repository: 
+
   Open a terminal or command prompt and use the following command to clone the repository
 
   ```bash
