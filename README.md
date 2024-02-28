@@ -50,8 +50,7 @@
 
 ## Steps to run the application
 
-<h2><strong><u>Clone the GitHub Repository:</u></strong></h2>
-
+- Clone the GitHub Repository: 
 
   Open a terminal or command prompt and use the following command to clone the repository.
 
