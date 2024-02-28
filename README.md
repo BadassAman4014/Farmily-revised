@@ -42,14 +42,81 @@
 - Weather API
 - Firebase (Authentication, Firestore, Cloud Messaging)
 
+## ✨ Requirements
+* Any Operating System (ie. MacOS X, Linux, Windows)
+* Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+* A little knowledge of Dart and Flutter
+
+
 ## Steps to run the application
 
 - Clone the GitHub Repository: 
 
-  Open a terminal or command prompt and use the following command to clone the repository
+  Open a terminal or command prompt and use the following command to clone the repository.
 
   ```python
   git clone https://github.com/BadassAman4014/Farmily-revised.git 
+  ```
+
+
+- Navigate to the Project Directory:
+
+  Change your current directory to the cloned project's directory.
+
+  ```python
+  cd Farmily-revised
+  ```
+
+- Get Dependencies:
+
+  Run the following command to get the dependencies needed for the Flutter project:
+  ```python
+  flutter pub get
+  ```
+
+- Get the suitable version of tflite to run the app :
+
+  replace these lines in the tflite package build.gradle file
+  example location C:\Users\"username"\AppData\Local\Pub\Cache\hosted\pub.dev\tflite-1.1.2\android\build.gradle
+  ```python
+  implementation 'org.tensorflow:tensorflow-lite:2.0.0' // Use a specific version
+  implementation 'org.tensorflow:tensorflow-lite-gpu:2.0.0' // Use a specific version
+  ```
+
+After replacing it should look like 
+``` python
+  android {
+    compileSdkVersion 28
+
+    defaultConfig {
+        minSdkVersion 19
+        testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
+    }
+    lintOptions {
+        disable 'InvalidPackage'
+    }
+
+    dependencies {
+        implementation 'org.tensorflow:tensorflow-lite:2.0.0' // Use a specific version
+        implementation 'org.tensorflow:tensorflow-lite-gpu:2.0.0' // Use a specific version
+    }
+  }
+```
+
+- Run install.bat 
+
+  While being in the same folder run the install.bat file using your command prompt.
+
+  You may use this command :
+  ```python
+  install.bat
+  ```
+
+- Run the flutter application 
+
+  ```python
+  flutter run
+  ```
   
 
 ## Usage
