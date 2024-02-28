@@ -42,6 +42,12 @@
 - Weather API
 - Firebase (Authentication, Firestore, Cloud Messaging)
 
+## Stept to run the application
+- Clone the GitHub Repository:
+  Open a terminal or command prompt and use the following command to clone the repository
+  ```bash
+$ git clone https://github.com/BadassAman4014/Farmily-revised.git 
+
 
 ## Usage
 
