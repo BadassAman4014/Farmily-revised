@@ -48,7 +48,7 @@
 
   Open a terminal or command prompt and use the following command to clone the repository
 
-  ```java
+  ```python
   git clone https://github.com/BadassAman4014/Farmily-revised.git 
   
 
