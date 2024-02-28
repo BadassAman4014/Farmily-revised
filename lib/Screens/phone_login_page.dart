@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:farmilyrev/Screens/phone_auth_provider.dart';
 import 'package:provider/provider.dart';
 
-import 'dum_home.dart';
-
 class PhoneLoginPage extends StatefulWidget {
   static const String screenId = 'welcome';
 
@@ -21,14 +19,14 @@ class _PhoneLoginPageState extends State<PhoneLoginPage> {
     final auth = Provider.of<AuthProvider>(context);
 
     // Function to navigate to the next page
-    void navigateToNextPage() {
-      Navigator.push(
-        context,
-        MaterialPageRoute(
-          builder: (context) => DHomePage(),
-        ),
-      );
-    }
+    // void navigateToNextPage() {
+    //   Navigator.push(
+    //     context,
+    //     MaterialPageRoute(
+    //       builder: (context) => DHomePage(),
+    //     ),
+    //   );
+    // }
 
     return Scaffold(
       appBar: AppBar(

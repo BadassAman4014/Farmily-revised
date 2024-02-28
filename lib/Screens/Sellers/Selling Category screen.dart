@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_storage/firebase_storage.dart';
-import '../Forms/AddFertilisers.dart';
-import '../Forms/AddGrocery.dart';
-import '../Forms/AddSeeds.dart';
-import '../Forms/addGardeningtools.dart';
-import '../Forms/addothers.dart';
-import '../Forms/addtools.dart';
+import '../../Forms/AddFertilisers.dart';
+import '../../Forms/AddGrocery.dart';
+import '../../Forms/AddSeeds.dart';
+import '../../Forms/addGardeningtools.dart';
+import '../../Forms/addothers.dart';
+import '../../Forms/addtools.dart';
 
 class SCategoryScreen extends StatelessWidget {
   final double logoSize = 100.0;

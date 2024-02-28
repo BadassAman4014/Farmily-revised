@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:farmilyrev/Screens/default_login_page.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'language_page.dart';
-import 'valhari/firebase_options.dart';
+import 'options/firebase_options.dart';
 
 class WelcomePage extends StatelessWidget {
   @override

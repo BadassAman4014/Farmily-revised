@@ -2,7 +2,7 @@ import 'dart:async';
 import 'package:farmilyrev/ListScreens/grocerylist.dart';
 import 'package:flutter/material.dart';
 
-import '../Screens/Store_page.dart';
+import '../Screens/Customers/Store_page.dart';
 
 class SellersSlidingScreens extends StatefulWidget {
   const SellersSlidingScreens({Key? key}) : super(key: key);

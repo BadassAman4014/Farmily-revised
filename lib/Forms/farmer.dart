@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import '../Screens/Farmers/Farmer_page.dart';
+
 class FarmerPage extends StatelessWidget {
   TextEditingController _fullNameController = TextEditingController();
   TextEditingController _livingAddressController = TextEditingController();
@@ -39,7 +41,10 @@ class FarmerPage extends StatelessWidget {
                   SizedBox(height: 20.0),
                   ElevatedButton(
                     onPressed: () {
-                      // Add your form submission logic here
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(builder: (context) => FarmerHomePage()), // Replace CartPage with the actual name of your cart page class
+                      );
                     },
                     child: Text('Submit'),
                     style: ElevatedButton.styleFrom(

@@ -1,7 +1,5 @@
 import 'dart:convert';
-
 import 'package:awesome_notifications/awesome_notifications.dart';
-import 'package:farmilyrev/Screens/Customer_page.dart';
 import 'package:farmilyrev/Screens/profile_page.dart';
 import 'package:flutter/material.dart';
 import 'package:geocoding/geocoding.dart';
@@ -9,24 +7,25 @@ import 'package:geolocator/geolocator.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';
 import 'package:line_icons/line_icons.dart';
 import 'package:permission_handler/permission_handler.dart';
-import '../BottomNavScreen/IOT Monitor/IOT_Monitor.dart';
+import '../../BottomNavScreen/IOT Monitor/IOT_Monitor.dart';
+import '../Customers/Customer_page.dart';
 import 'OrdersPage.dart';
-import '../Chatbot/geminichatbot.dart';
-import '../Chatbot/inappbot.dart';
-import '../Forms/AddFertilisers.dart';
-import '../Forms/AddSeeds.dart';
-import '../Forms/addGardeningtools.dart';
-import '../Forms/addothers.dart';
-import '../Forms/addtools.dart';
-import '../SlidingScreen/CustomerCatSlider.dart';
-import '../SlidingScreen/SellerCatSlider.dart';
-import '../SlidingScreen/CustomerSliderWidget.dart';
-import '../SlidingScreen/SellerSliderWidget.dart';
-import '../SlidingScreen/Trending_Items.dart';
+import '../../Chatbot/geminichatbot.dart';
+import '../../Chatbot/inappbot.dart';
+import '../../Forms/AddFertilisers.dart';
+import '../../Forms/AddSeeds.dart';
+import '../../Forms/addGardeningtools.dart';
+import '../../Forms/addothers.dart';
+import '../../Forms/addtools.dart';
+import '../../SlidingScreen/CustomerCatSlider.dart';
+import '../../SlidingScreen/SellerCatSlider.dart';
+import '../../SlidingScreen/CustomerSliderWidget.dart';
+import '../../SlidingScreen/SellerSliderWidget.dart';
+import '../../SlidingScreen/Trending_Items.dart';
 import 'package:http/http.dart' as http;
 
 import 'Selling Category screen.dart';
-import 'Store_page.dart';
+import '../Customers/Store_page.dart';
 import 'my_products_screen.dart';
 
 // Import your other widgets here

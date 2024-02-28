@@ -3,7 +3,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:farmilyrev/Screens/phone_login_page.dart';
-import 'valhari/firebase_options.dart';
+import 'options/firebase_options.dart';
 
 class SignUpPage extends StatefulWidget {
   @override

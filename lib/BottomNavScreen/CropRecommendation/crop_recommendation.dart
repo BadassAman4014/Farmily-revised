@@ -2,7 +2,7 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:tflite_flutter/tflite_flutter.dart';
 import 'package:get/get.dart';
-import '../../Screens/CropRecommendationResultPage.dart';
+import '../../Screens/Farmers/CropRecommendationResultPage.dart';
 import 'package:farmilyrev/BottomNavScreen/CropRecommendation/api/gemini.dart';
 
 class CropRecommendation extends StatefulWidget {

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'Bcategory.dart';
-import 'Selling Category screen.dart';
+import '../Sellers/Selling Category screen.dart';
 
 class MyCart extends StatelessWidget {
   @override

@@ -3,7 +3,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:url_launcher/url_launcher.dart';
 
-import '../Screens/Ftool detail page.dart';
+import '../Screens/Farmers/Ftool detail page.dart';
 
 class FarmingTool {
   String name;

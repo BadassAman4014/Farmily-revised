@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 
-import '../ListScreens/Farmingtoolslist.dart';
-import '../ListScreens/Fertiliserlist.dart';
-import '../ListScreens/Gardening tools list.dart';
-import '../ListScreens/Others list.dart';
-import '../ListScreens/grocerylist.dart';
-import '../ListScreens/seedslist.dart';
+import '../../ListScreens/Farmingtoolslist.dart';
+import '../../ListScreens/Fertiliserlist.dart';
+import '../../ListScreens/Gardening tools list.dart';
+import '../../ListScreens/Others list.dart';
+import '../../ListScreens/grocerylist.dart';
+import '../../ListScreens/seedslist.dart';
 
-class BCategoryScreen extends StatelessWidget {
+class FBCategoryScreen extends StatelessWidget {
   final double logoSize = 100.0;
   static const String screenId = 'Buy';
 
@@ -34,7 +34,6 @@ class BCategoryScreen extends StatelessWidget {
         mainAxisSpacing: screenWidth * 0.05,
         crossAxisSpacing: screenWidth * 0.05,
         children: <Widget>[
-          _buildCategoryTile(context, 'Grocery', 'Icons/Grocery.png', GroceryScreen()),
           _buildCategoryTile(context, 'Fertilisers', 'Icons/Fertilisers & Pesticides.png', FertilizerScreen()),
           _buildCategoryTile(context, 'Seeds & Saplings', 'Icons/Seeds & Saplings.png', SeedsScreen()),
           _buildCategoryTile(context, 'Farming Tools', 'Icons/Farming Tools.png', FarmToolsScreen()),

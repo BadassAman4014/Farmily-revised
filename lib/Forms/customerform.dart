@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import '../Screens/Customers/Customer_page.dart';
+
 class CustomerFormPage extends StatelessWidget {
   TextEditingController _customerNameController = TextEditingController();
   TextEditingController _emailController = TextEditingController();
@@ -33,7 +35,10 @@ class CustomerFormPage extends StatelessWidget {
                   SizedBox(height: 20.0),
                   ElevatedButton(
                     onPressed: () {
-                      // Add your form submission logic here
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(builder: (context) => CustomerHomePage()), // Replace CartPage with the actual name of your cart page class
+                      );
                     },
                     child: Text('Submit'),
                     style: ElevatedButton.styleFrom(

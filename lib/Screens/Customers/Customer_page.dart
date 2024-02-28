@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:awesome_notifications/awesome_notifications.dart';
-import 'package:farmilyrev/Screens/SellerPage.dart';
+import 'package:farmilyrev/Screens/Sellers/SellerPage.dart';
 import 'package:farmilyrev/Screens/profile_page.dart';
 import 'package:flutter/material.dart';
 import 'package:geocoding/geocoding.dart';
@@ -9,16 +9,16 @@ import 'package:geolocator/geolocator.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';
 import 'package:line_icons/line_icons.dart';
 import 'package:permission_handler/permission_handler.dart';
-import '../Chatbot/geminichatbot.dart';
-import '../Chatbot/inappbot.dart';
-import '../ListScreens/Fertiliserlist.dart';
-import '../ListScreens/Gardening tools list.dart';
-import '../ListScreens/Others list.dart';
-import '../ListScreens/grocerylist.dart';
-import '../ListScreens/seedslist.dart';
-import '../SlidingScreen/CustomerCatSlider.dart';
-import '../SlidingScreen/CustomerSliderWidget.dart';
-import '../SlidingScreen/Trending_Items.dart';
+import '../../Chatbot/geminichatbot.dart';
+import '../../Chatbot/inappbot.dart';
+import '../../ListScreens/Fertiliserlist.dart';
+import '../../ListScreens/Gardening tools list.dart';
+import '../../ListScreens/Others list.dart';
+import '../../ListScreens/grocerylist.dart';
+import '../../ListScreens/seedslist.dart';
+import '../../SlidingScreen/CustomerCatSlider.dart';
+import '../../SlidingScreen/CustomerSliderWidget.dart';
+import '../../SlidingScreen/Trending_Items.dart';
 import 'package:http/http.dart' as http;
 
 import 'Bcategory.dart';
