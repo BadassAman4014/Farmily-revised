@@ -76,8 +76,10 @@
 
 - Get the suitable version of tflite to run the app :
 
-  replace these lines in the tflite package build.gradle file
-  example location C:\Users\"username"\AppData\Local\Pub\Cache\hosted\pub.dev\tflite-1.1.2\android\build.gradle
+  Replace these lines in the tflite package build.gradle file
+  example location 
+  
+  **C:\Users\"username"\AppData\Local\Pub\Cache\hosted\pub.dev\tflite-1.1.2\android\build.gradle**
   ```python
   implementation 'org.tensorflow:tensorflow-lite:2.0.0' // Use a specific version
   implementation 'org.tensorflow:tensorflow-lite-gpu:2.0.0' // Use a specific version
