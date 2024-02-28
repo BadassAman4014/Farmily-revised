@@ -1,72 +1,47 @@
 # Farmily - One-Stop Solution for Agriculture Landscape
 
-<<<<<<< HEAD
-![Farmily Logo](assets/Images/logo.jpg)
-
-## Overview
-
-**Farmily** integrates a mobile app and IoT device to provide farmers with a unified platform, offering marketplace linkages and real-time analytics on market rates, weather, and farming news. Employing a data-driven approach, it delivers personalized insights on plant and soil health monitoring, yield enhancement, and sustainable practices. The Android app serves as a comprehensive solution transforming the farming experience through streamlined features. 🌾🚀
-=======
 ![Farmily Logo](assets/images/logo.jpg)
+
 
 ## Overview
 
 **Farmily** integrates a mobile app and IoT device to provide farmers with a unified platform, offering marketplace linkages and real-time analytics on weather and soil health. Employing a data-driven approach, it delivers personalized insights on plant and soil health monitoring, yield enhancement, and sustainable practices. The Android app serves as a comprehensive solution transforming the farming experience through streamlined features. 🌾🚀
->>>>>>> cb800811471cc6026d6cce4306e6764a972b3e02
 
-### In-app Features
 
-#### User Experience
-- **Secured Authentication:** Ensuring privacy and security through OTP authentication. 🔒
-<<<<<<< HEAD
-- **Multilingual Support:** English, Hindi, Marathi, and more for an inclusive user experience. 🌐
-=======
-- **Multilingual Support:** English, Hindi, Javanese, and more for an inclusive user experience. 🌐
->>>>>>> cb800811471cc6026d6cce4306e6764a972b3e02
+## In-app Features
 
-#### Marketplace Features
-- **Buy & Rent:** Seamlessly access farming equipment and essentials. 🛒
-- **AgroHire:** Connect with seasonal labor for listing, hiring, and harvesting needs. 👩‍🌾🤝
+- **Secured Authentication:** Prioritizing privacy and security with OTP authentication. 🔒
 
-#### Farming Assistance
+- **Multilingual Support:** Choose your preferred language; presently, English is supported. 🌐
+
+- **User Role Specification:** Tailoring functionalities for each user type (farmer, customer, seller) to ensure a personalized and seamless experience. 🌱
+
+### Farming Assistance
+
 - **AgroGuide:** Harness the power of ML for crop prediction, recommendations, and IOT crop monitoring. 🌱🤖
-- **Market Updates:** Stay ahead with real-time market price updates and farming industry news. 📈🌐
+  
 - **Weather Forecasts:** Receive hyperlocal weather forecasts and advisories. 🌦️⚠️
+  
+- **Buy & Rent:** Seamlessly access farming equipment and essentials. 🛒
 
-#### Support
-- **In-app Chatbot:** Instant customer support and farming assistance. 🤖💬
+### Support
+
+- **In-app Chatbot:** Instant customer support and farming guidance bot. 🤖💬
 
 ## Important Links
-
-<<<<<<< HEAD
-- [Demo](https://youtu.be/z6UyvHQPP0A)
-
-## Tech Stack
-
-- Google Cloud VM & AMD instances for deploying ML model
-- Flutter
-- Tensorflow
-- Weather API
-- Firebase (Authentication, Firestore, Cloud Messaging)
-- Rest APIs
-- News API
-- Dialogflow
-- Real-time Database
-=======
-- [Demo](https://youtu.be/vp_O_RCOe-I)
+- [APK]()
+  
 
 ## Tech Stack
 
 - Flutter
-- Firebase (Authentication, Firestore, Cloud Messaging)
+- Google AI Studio
 - Google Teachable Machine
 - Vertex AI
 - Gemini API
 - Weather API
-- Google AI Studio
-- Real-time Database
-- IOT 
->>>>>>> cb800811471cc6026d6cce4306e6764a972b3e02
+- Firebase (Authentication, Firestore, Cloud Messaging)
+
 
 ## Usage
 
@@ -99,15 +74,9 @@ We are working on developing a labor portal so that farmers can easily connect w
 ## UN Sustainable Development Goals and Targets:
 
 <p align="center">
-<<<<<<< HEAD
-  <img src="assets/SDG/hunger.png" width="30%" alt="SDG Goal 1">
-  <img src="assets/SDG/work.png" width="30%" alt="SDG Goal 2">
-  <img src="assets/SDG/conpro.png" width="30%" alt="SDG Goal 3">
-=======
   <img src="assets/images/SDG/hunger.png" width="30%" alt="SDG Goal 1">
   <img src="assets/images/SDG/work.png" width="30%" alt="SDG Goal 2">
   <img src="assets/images/SDG/conpro.png" width="30%" alt="SDG Goal 3">
->>>>>>> cb800811471cc6026d6cce4306e6764a972b3e02
 </p>
 
 Goal 2 - Zero Hunger
@@ -129,4 +98,4 @@ Goal 12 - Responsible Consumption and Production
 
 Join us in cultivating innovation in Indian agriculture. Your contributions are the seeds of change! 🌱🤝
 
----
+
