@@ -149,22 +149,6 @@ Empower yourself with data-driven insights to optimize production and skyrocket 
 ## 🌾 AgroHire: Labor Portal 🤝💼
 We are working on developing a labor portal so that farmers can easily connect with available labor during crucial agricultural cycles, ensuring workforce availability for tasks like sowing, harvesting, and other key agricultural activities. 🧑‍🌾👩‍🌾
 
-## 🌍 UN Sustainable Development Goals and Targets 🎯🌐
-
-<p align="center">
-  <img src="assets/images/SDG/hunger.png" width="30%" alt="SDG Goal 1">
-  <img src="assets/images/SDG/work.png" width="30%" alt="SDG Goal 2">
-  <img src="assets/images/SDG/conpro.png" width="30%" alt="SDG Goal 3">
-</p>
-
-Goal 2 - Zero Hunger
-        Target 2.3 - Double agricultural productivity and incomes of small-scale food producers.
-        
-Goal 8 - Decent Work and Economic Growth
-         Target 8.2 - Achieve higher levels of economic productivity through diversification and technological upgrading.
-         
-Goal 12 - Responsible Consumption and Production
-          Target 12.3 - Halve per capita global food waste and reduce food losses along production and supply chains.
 
 ## 👥 Our Members 🌐
 - Valhari Meshram 
